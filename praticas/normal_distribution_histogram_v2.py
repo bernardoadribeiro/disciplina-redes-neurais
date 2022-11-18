@@ -1,6 +1,6 @@
 import numpy as np
 
-VECTOR_LENGTH = 30 # vectors length
+VECTOR_LENGTH = 1000 # vectors length
 
 
 def plot_histogram(data_source, title):
