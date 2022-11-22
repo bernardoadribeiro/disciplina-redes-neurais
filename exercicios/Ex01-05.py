@@ -27,7 +27,6 @@ vector = np.random.randint(1, 30, size=10)
 print("Vetor: ", vector, "\ntam.: ", len(vector))
 
 # Calc using my functions
-
 print("Media: ", mean_value(vector))
 print("Desvio Padrao: ", sd_value(vector))
 
