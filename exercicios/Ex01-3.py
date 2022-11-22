@@ -1,3 +1,7 @@
+"""
+    Escreva uma função para calcular f (x) = x2 − 3x + 2. Atribua uma sêquencia de 20 valores e faça o gráfico (x,y) desta função.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
