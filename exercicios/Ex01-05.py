@@ -4,7 +4,6 @@
 """
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 # Calc manually
 def mean_value(array):
@@ -33,3 +32,14 @@ print("Desvio Padrao: ", sd_value(vector))
 # Calc using libs
 print("Media: ", vector.mean())
 print("Desvio Padrao: ", vector.std())
+
+# Comparing
+if (mean_value(vector) == vector.mean()):
+    print("Media: OK")
+else:
+    print("Media: NOK")
+
+if (sd_value(vector) == vector.std()):
+    print("Desvio Padrao: OK")
+else:
+    print("Desvio Padrao: NOK")
