@@ -1,0 +1,2 @@
+Com base no conteúdo ministrado sobre a analise do banco de dados IRIS; 
+implemente o banco de dados IRIS com suas atribuições (dados) e logo em seguida insira dados aleatórios para verificar os resultados.
